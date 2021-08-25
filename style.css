@@ -1,3 +1,7 @@
 .card {
     width: 20rem;
 }
+
+.input-wrapper {
+    border: 1px solid red;
+}
